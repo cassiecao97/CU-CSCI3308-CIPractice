@@ -1,5 +1,5 @@
-Script:
+script:
      make test
 
-Install:
+install:
      sudo apt-get check
